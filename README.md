@@ -43,7 +43,7 @@ Chemistry
 27. Coordinates Compounds & Bio - Coordinates Compounds
 28. Nuclear Chemistry
 
-### Physical Chemistry
+### Physical Chemistry II
 
 29. Solid State II
 30. Thermodynamics II
